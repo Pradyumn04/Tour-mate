@@ -257,4 +257,15 @@ footer{
     }
     
 }
+.h1{
+    font-size: 75px;
+    color: white;
+    justify-content: space-between;
+}
+h1, h2 {
+    color: #e9d04f;
+}
 
+p {
+    margin-bottom: 20px;
+}
