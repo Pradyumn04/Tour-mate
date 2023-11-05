@@ -11,6 +11,7 @@ body{
     width: 100%;
     background-color: #001721;
     overflow-x: hidden;
+    margin: auto;
 }
 
 .flex-r{
@@ -268,4 +269,5 @@ h1, h2 {
 
 p {
     margin-bottom: 20px;
+    color: white;
 }
